@@ -1,3 +1,6 @@
+# DOI
+https://doi.org/10.5281/zenodo.18860088
+
 # JOIS 2021
 
 Expedition from 19/08/2021 – 16/09/2021 on the Louis St. Laurent. Departed Cambridge Bay, Nunavut, Canada. Returned to Cambridge Bay, Nunavut, Canada.
